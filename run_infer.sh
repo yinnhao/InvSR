@@ -1,0 +1,1 @@
+python inference_invsr.py -i ./testdata/RealSet80/7.jpg -o ./res --num_steps 1
